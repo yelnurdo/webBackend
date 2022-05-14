@@ -1,0 +1,6 @@
+User-agent: *
+Disallow:
+dlfsldsfkdslkflksdl
+df,;sdl;flsd;lf
+f;sllfsdl
+fsd;lflsd
